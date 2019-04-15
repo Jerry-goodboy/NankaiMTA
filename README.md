@@ -6,7 +6,7 @@
 
 - 各主题资料
    - 成本控制主题
-     - [A survey of factors influencing the cost system design in hotels.pdf](/各主题资料/成本控制主题/A survey of factors influencing the cost system design in hotels.pdf)
+     - [A survey of factors influencing the cost system design in hotels.pdf](/电子书和参考资料/2019年上学期/旅游投资与财务管理/各主题资料/成本控制主题/A survey of factors influencing the cost system design in hotels.pdf)
      - []()
      - []()
      - []()
