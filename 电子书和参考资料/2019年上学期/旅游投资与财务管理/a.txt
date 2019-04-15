@@ -1,0 +1,76 @@
+卷 新加卷 的文件夹 PATH 列表
+卷序列号为 BA19-D021
+D:\GITHUB\NANKAIMTA\电子书和参考资料\2019年上学期\旅游投资与财务管理
+│  a.txt
+│  
+├─各主题资料
+│  ├─成本控制主题
+│  │      A survey of factors influencing the cost system design in hotels.pdf
+│  │      Changes in emotions and their interactions with personality.pdf
+│  │      Responsibility cost control system in China.pdf
+│  │      Supply chain cost management and value-based pricing.pdf
+│  │      The role of management control systems.pdf
+│  │      Transaction cost framework in operations and supply chain.pdf
+│  │      
+│  ├─投资主题
+│  │      Improving Hospitality.pdf
+│  │      Nationality and differences in auditor risk assessment.pdf
+│  │      
+│  ├─收入管理主题
+│  │      Analysing the online pricing practices of hotels.pdf
+│  │      Antecedents and consequences of strategic price management.pdf
+│  │      Dynamic room pricing model for hotel revenue.pdf
+│  │      Hotel revenue management and the Internet.pdf
+│  │      Influences of consumer characteristics on fairness perceptions of revenue.pdf
+│  │      Modeling hotel room price with geographically weighted regression.pdf
+│  │      Pricing determinants in the hotel industry Quantile regression analysis.pdf
+│  │      Relationship or revenue.pdf
+│  │      Technology revenue management system for customer groups in hotels.pdf
+│  │      The basics of yield management.pdf
+│  │      Towards value-based pricing—An integrative framework.pdf
+│  │      Weekend vs. midweek stays.pdf
+│  │      
+│  ├─绩效评价主题
+│  │      A model and a performance measurement system for.pdf
+│  │      An investigation of the effect of Balanced Scorecard.pdf
+│  │      Choice and change of measures in performance.pdf
+│  │      CONCEPTUALIZING YIELD.pdf
+│  │      Designing a performance measurement system.pdf
+│  │      Measuring the immeasurable.pdf
+│  │      Multiple Perspectives of Performance Measures.pdf
+│  │      Performance management a framework.pdf
+│  │      Performance measurement and performance management.pdf
+│  │      Performance measurement impacts on management and.pdf
+│  │      The impact of IT capabilities on firm performance.pdf
+│  │      The interplay of different levers of control.pdf
+│  │      The theory and practice of performance measurementPietro.pdf
+│  │      
+│  ├─绪论主题
+│  │      A conceptual development of Simons’ Levers of Control framework.pdf
+│  │      Hospitality finance and.pdf
+│  │      How information systems influence user decisions.pdf
+│  │      
+│  ├─融资主题
+│  │      Capital structure, free cash flow, diversification and firm performance.pdf
+│  │      
+│  └─预算主题
+│          Beyond budgeting or budgeting reconsidered.pdf
+│          Budgeting practices in the Turkish hospitality industry.pdf
+│          Coping with ambiguity through the budget.pdf
+│          Improving hotel budgetary practiceA positive theory model.pdf
+│          The differential effect of environmental.pdf
+│          ‘‘Continuous” budgeting Reconciling budget flexibility.pdf
+│          
+└─研究方法
+        Asking Good Survey Questions.pdf
+        如何写文献综述.ppt
+        扎根理论.docx
+        文献综述.docx
+        案例研究.docx
+        概念模型含义.docx
+        论文摘要.docx
+        调查研究法.docx
+        质性方法.docx
+        质的研究方法与社会科学研究--陈向明.pdf
+        陈向明质化研究PPT.ppt
+        
