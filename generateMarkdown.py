@@ -8,14 +8,14 @@ import os.path
 
 excludeFiles = set(['.DS_Store'])
 
-
 seq = []
-
 
 def dfs_showdir(path, depth, dirName, seq):
     global href
     fo = open("README.md", "w")
-    for item in os.listdir(path):
+    dirs = os.listdir(path)
+    dirs.sort()
+    for item in dirs:
         if '.git' not in item:
             newitem = path +'/'+ item
             if os.path.isdir(newitem):
@@ -30,8 +30,6 @@ def dfs_showdir(path, depth, dirName, seq):
             elif os.path.isfile(newitem):
                 if item not in excludeFiles and depth > 1:
                     seq.append("  " * (depth - 4) + '- <a href="' + href + '/' + item + '">' + item +'</a>')
-
-    print(seq)
     fo.writelines([line + '\n\n' for line in seq])
     fo.close()
 

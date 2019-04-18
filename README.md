@@ -1,144 +1,144 @@
-## ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™
+## µç×ÓÊéºÍ²Î¿¼×ÊÁÏ
 
-### 2019å¹´ä¸Šå­¦æœŸ
+### 2019ÄêÉÏÑ§ÆÚ
 
-#### ã€Šç ”ç©¶æ–¹æ³•ã€‹
+#### ¡¶×¨ÒµÓ¢Óï¡·
 
-- è°ƒæŸ¥é—®å·
+- ½Ì²Ä
 
-  - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/ç ”ç©¶æ–¹æ³•/è°ƒæŸ¥é—®å·/è°ƒæŸ¥é—®å·çš„è®¾è®¡ä¸è¯„ä¼°.pdf">è°ƒæŸ¥é—®å·çš„è®¾è®¡ä¸è¯„ä¼°.pdf</a>
+  - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/×¨ÒµÓ¢Óï/½Ì²Ä/ÂÃÓÎ´ÓÒµÓ¢Óï¡ª¡ªĞĞÒµ×ÛÀÀÓëÊµ¼ù.pdf">ÂÃÓÎ´ÓÒµÓ¢Óï¡ª¡ªĞĞÒµ×ÛÀÀÓëÊµ¼ù.pdf</a>
 
-#### ã€Šä¸“ä¸šè‹±è¯­ã€‹
+#### ¡¶ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí¡·
 
-- æ•™æ
+- ¸÷Ö÷Ìâ×ÊÁÏ
 
-  - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/ä¸“ä¸šè‹±è¯­/æ•™æ/æ—…æ¸¸ä»ä¸šè‹±è¯­â€”â€”è¡Œä¸šç»¼è§ˆä¸å®è·µ.pdf">æ—…æ¸¸ä»ä¸šè‹±è¯­â€”â€”è¡Œä¸šç»¼è§ˆä¸å®è·µ.pdf</a>
+  - ³É±¾¿ØÖÆÖ÷Ìâ
 
-#### ã€Šæ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†ã€‹
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/³É±¾¿ØÖÆÖ÷Ìâ/A survey of factors influencing the cost system design in hotels.pdf">A survey of factors influencing the cost system design in hotels.pdf</a>
 
-- å„ä¸»é¢˜èµ„æ–™
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/³É±¾¿ØÖÆÖ÷Ìâ/Changes in emotions and their interactions with personality.pdf">Changes in emotions and their interactions with personality.pdf</a>
 
-  - ç»ªè®ºä¸»é¢˜
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/³É±¾¿ØÖÆÖ÷Ìâ/Responsibility cost control system in China.pdf">Responsibility cost control system in China.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»ªè®ºä¸»é¢˜/How information systems influence user decisions.pdf">How information systems influence user decisions.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/³É±¾¿ØÖÆÖ÷Ìâ/Supply chain cost management and value-based pricing.pdf">Supply chain cost management and value-based pricing.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»ªè®ºä¸»é¢˜/A conceptual development of Simonsâ€™ Levers of Control framework.pdf">A conceptual development of Simonsâ€™ Levers of Control framework.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/³É±¾¿ØÖÆÖ÷Ìâ/The role of management control systems.pdf">The role of management control systems.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»ªè®ºä¸»é¢˜/Hospitality finance and.pdf">Hospitality finance and.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/³É±¾¿ØÖÆÖ÷Ìâ/Transaction cost framework in operations and supply chain.pdf">Transaction cost framework in operations and supply chain.pdf</a>
 
-  - æ”¶å…¥ç®¡ç†ä¸»é¢˜
+  - Í¶×ÊÖ÷Ìâ
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æ”¶å…¥ç®¡ç†ä¸»é¢˜/The basics of yield management.pdf">The basics of yield management.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/Í¶×ÊÖ÷Ìâ/Improving Hospitality.pdf">Improving Hospitality.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æ”¶å…¥ç®¡ç†ä¸»é¢˜/Modeling hotel room price with geographically weighted regression.pdf">Modeling hotel room price with geographically weighted regression.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/Í¶×ÊÖ÷Ìâ/Nationality and differences in auditor risk assessment.pdf">Nationality and differences in auditor risk assessment.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æ”¶å…¥ç®¡ç†ä¸»é¢˜/Pricing determinants in the hotel industry Quantile regression analysis.pdf">Pricing determinants in the hotel industry Quantile regression analysis.pdf</a>
+  - ÊÕÈë¹ÜÀíÖ÷Ìâ
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æ”¶å…¥ç®¡ç†ä¸»é¢˜/Dynamic room pricing model for hotel revenue.pdf">Dynamic room pricing model for hotel revenue.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/ÊÕÈë¹ÜÀíÖ÷Ìâ/Analysing the online pricing practices of hotels.pdf">Analysing the online pricing practices of hotels.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æ”¶å…¥ç®¡ç†ä¸»é¢˜/Hotel revenue management and the Internet.pdf">Hotel revenue management and the Internet.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/ÊÕÈë¹ÜÀíÖ÷Ìâ/Antecedents and consequences of strategic price management.pdf">Antecedents and consequences of strategic price management.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æ”¶å…¥ç®¡ç†ä¸»é¢˜/Relationship or revenue.pdf">Relationship or revenue.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/ÊÕÈë¹ÜÀíÖ÷Ìâ/Dynamic room pricing model for hotel revenue.pdf">Dynamic room pricing model for hotel revenue.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æ”¶å…¥ç®¡ç†ä¸»é¢˜/Weekend vs. midweek stays.pdf">Weekend vs. midweek stays.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/ÊÕÈë¹ÜÀíÖ÷Ìâ/Hotel revenue management and the Internet.pdf">Hotel revenue management and the Internet.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æ”¶å…¥ç®¡ç†ä¸»é¢˜/Technology revenue management system for customer groups in hotels.pdf">Technology revenue management system for customer groups in hotels.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/ÊÕÈë¹ÜÀíÖ÷Ìâ/Influences of consumer characteristics on fairness perceptions of revenue.pdf">Influences of consumer characteristics on fairness perceptions of revenue.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æ”¶å…¥ç®¡ç†ä¸»é¢˜/Influences of consumer characteristics on fairness perceptions of revenue.pdf">Influences of consumer characteristics on fairness perceptions of revenue.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/ÊÕÈë¹ÜÀíÖ÷Ìâ/Modeling hotel room price with geographically weighted regression.pdf">Modeling hotel room price with geographically weighted regression.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æ”¶å…¥ç®¡ç†ä¸»é¢˜/Analysing the online pricing practices of hotels.pdf">Analysing the online pricing practices of hotels.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/ÊÕÈë¹ÜÀíÖ÷Ìâ/Pricing determinants in the hotel industry Quantile regression analysis.pdf">Pricing determinants in the hotel industry Quantile regression analysis.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æ”¶å…¥ç®¡ç†ä¸»é¢˜/Towards value-based pricingâ€”An integrative framework.pdf">Towards value-based pricingâ€”An integrative framework.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/ÊÕÈë¹ÜÀíÖ÷Ìâ/Relationship or revenue.pdf">Relationship or revenue.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æ”¶å…¥ç®¡ç†ä¸»é¢˜/Antecedents and consequences of strategic price management.pdf">Antecedents and consequences of strategic price management.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/ÊÕÈë¹ÜÀíÖ÷Ìâ/Technology revenue management system for customer groups in hotels.pdf">Technology revenue management system for customer groups in hotels.pdf</a>
 
-  - èèµ„ä¸»é¢˜
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/ÊÕÈë¹ÜÀíÖ÷Ìâ/The basics of yield management.pdf">The basics of yield management.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/èèµ„ä¸»é¢˜/Capital structure, free cash flow, diversification and firm performance.pdf">Capital structure, free cash flow, diversification and firm performance.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/ÊÕÈë¹ÜÀíÖ÷Ìâ/Towards value-based pricing¡ªAn integrative framework.pdf">Towards value-based pricing¡ªAn integrative framework.pdf</a>
 
-  - æˆæœ¬æ§åˆ¶ä¸»é¢˜
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/ÊÕÈë¹ÜÀíÖ÷Ìâ/Weekend vs. midweek stays.pdf">Weekend vs. midweek stays.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æˆæœ¬æ§åˆ¶ä¸»é¢˜/The role of management control systems.pdf">The role of management control systems.pdf</a>
+  - ¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æˆæœ¬æ§åˆ¶ä¸»é¢˜/Supply chain cost management and value-based pricing.pdf">Supply chain cost management and value-based pricing.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ/A model and a performance measurement system for.pdf">A model and a performance measurement system for.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æˆæœ¬æ§åˆ¶ä¸»é¢˜/Responsibility cost control system in China.pdf">Responsibility cost control system in China.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ/An investigation of the effect of Balanced Scorecard.pdf">An investigation of the effect of Balanced Scorecard.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æˆæœ¬æ§åˆ¶ä¸»é¢˜/A survey of factors influencing the cost system design in hotels.pdf">A survey of factors influencing the cost system design in hotels.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ/CONCEPTUALIZING YIELD.pdf">CONCEPTUALIZING YIELD.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æˆæœ¬æ§åˆ¶ä¸»é¢˜/Changes in emotions and their interactions with personality.pdf">Changes in emotions and their interactions with personality.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ/Choice and change of measures in performance.pdf">Choice and change of measures in performance.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æˆæœ¬æ§åˆ¶ä¸»é¢˜/Transaction cost framework in operations and supply chain.pdf">Transaction cost framework in operations and supply chain.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ/Designing a performance measurement system.pdf">Designing a performance measurement system.pdf</a>
 
-  - ç»©æ•ˆè¯„ä»·ä¸»é¢˜
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ/Measuring the immeasurable.pdf">Measuring the immeasurable.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»©æ•ˆè¯„ä»·ä¸»é¢˜/The interplay of different levers of control.pdf">The interplay of different levers of control.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ/Multiple Perspectives of Performance Measures.pdf">Multiple Perspectives of Performance Measures.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»©æ•ˆè¯„ä»·ä¸»é¢˜/An investigation of the effect of Balanced Scorecard.pdf">An investigation of the effect of Balanced Scorecard.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ/Performance management a framework.pdf">Performance management a framework.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»©æ•ˆè¯„ä»·ä¸»é¢˜/Performance measurement and performance management.pdf">Performance measurement and performance management.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ/Performance measurement and performance management.pdf">Performance measurement and performance management.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»©æ•ˆè¯„ä»·ä¸»é¢˜/Performance measurement impacts on management and.pdf">Performance measurement impacts on management and.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ/Performance measurement impacts on management and.pdf">Performance measurement impacts on management and.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»©æ•ˆè¯„ä»·ä¸»é¢˜/Multiple Perspectives of Performance Measures.pdf">Multiple Perspectives of Performance Measures.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ/The impact of IT capabilities on firm performance.pdf">The impact of IT capabilities on firm performance.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»©æ•ˆè¯„ä»·ä¸»é¢˜/Designing a performance measurement system.pdf">Designing a performance measurement system.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ/The interplay of different levers of control.pdf">The interplay of different levers of control.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»©æ•ˆè¯„ä»·ä¸»é¢˜/Performance management a framework.pdf">Performance management a framework.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/¼¨Ğ§ÆÀ¼ÛÖ÷Ìâ/The theory and practice of performance measurementPietro.pdf">The theory and practice of performance measurementPietro.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»©æ•ˆè¯„ä»·ä¸»é¢˜/Choice and change of measures in performance.pdf">Choice and change of measures in performance.pdf</a>
+  - Ğ÷ÂÛÖ÷Ìâ
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»©æ•ˆè¯„ä»·ä¸»é¢˜/The theory and practice of performance measurementPietro.pdf">The theory and practice of performance measurementPietro.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/Ğ÷ÂÛÖ÷Ìâ/A conceptual development of Simons¡¯ Levers of Control framework.pdf">A conceptual development of Simons¡¯ Levers of Control framework.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»©æ•ˆè¯„ä»·ä¸»é¢˜/CONCEPTUALIZING YIELD.pdf">CONCEPTUALIZING YIELD.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/Ğ÷ÂÛÖ÷Ìâ/Hospitality finance and.pdf">Hospitality finance and.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»©æ•ˆè¯„ä»·ä¸»é¢˜/Measuring the immeasurable.pdf">Measuring the immeasurable.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/Ğ÷ÂÛÖ÷Ìâ/How information systems influence user decisions.pdf">How information systems influence user decisions.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»©æ•ˆè¯„ä»·ä¸»é¢˜/A model and a performance measurement system for.pdf">A model and a performance measurement system for.pdf</a>
+  - ÈÚ×ÊÖ÷Ìâ
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/ç»©æ•ˆè¯„ä»·ä¸»é¢˜/The impact of IT capabilities on firm performance.pdf">The impact of IT capabilities on firm performance.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/ÈÚ×ÊÖ÷Ìâ/Capital structure, free cash flow, diversification and firm performance.pdf">Capital structure, free cash flow, diversification and firm performance.pdf</a>
 
-  - é¢„ç®—ä¸»é¢˜
+  - Ô¤ËãÖ÷Ìâ
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/é¢„ç®—ä¸»é¢˜/The differential effect of environmental.pdf">The differential effect of environmental.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/Ô¤ËãÖ÷Ìâ/Beyond budgeting or budgeting reconsidered.pdf">Beyond budgeting or budgeting reconsidered.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/é¢„ç®—ä¸»é¢˜/Beyond budgeting or budgeting reconsidered.pdf">Beyond budgeting or budgeting reconsidered.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/Ô¤ËãÖ÷Ìâ/Budgeting practices in the Turkish hospitality industry.pdf">Budgeting practices in the Turkish hospitality industry.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/é¢„ç®—ä¸»é¢˜/Coping with ambiguity through the budget.pdf">Coping with ambiguity through the budget.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/Ô¤ËãÖ÷Ìâ/Coping with ambiguity through the budget.pdf">Coping with ambiguity through the budget.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/é¢„ç®—ä¸»é¢˜/â€˜â€˜Continuousâ€ budgeting Reconciling budget flexibility.pdf">â€˜â€˜Continuousâ€ budgeting Reconciling budget flexibility.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/Ô¤ËãÖ÷Ìâ/Improving hotel budgetary practiceA positive theory model.pdf">Improving hotel budgetary practiceA positive theory model.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/é¢„ç®—ä¸»é¢˜/Budgeting practices in the Turkish hospitality industry.pdf">Budgeting practices in the Turkish hospitality industry.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/Ô¤ËãÖ÷Ìâ/The differential effect of environmental.pdf">The differential effect of environmental.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/é¢„ç®—ä¸»é¢˜/Improving hotel budgetary practiceA positive theory model.pdf">Improving hotel budgetary practiceA positive theory model.pdf</a>
+    - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/¸÷Ö÷Ìâ×ÊÁÏ/Ô¤ËãÖ÷Ìâ/¡®¡®Continuous¡± budgeting Reconciling budget flexibility.pdf">¡®¡®Continuous¡± budgeting Reconciling budget flexibility.pdf</a>
 
-  - æŠ•èµ„ä¸»é¢˜
+- ÑĞ¾¿·½·¨
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æŠ•èµ„ä¸»é¢˜/Improving Hospitality.pdf">Improving Hospitality.pdf</a>
+  - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/ÑĞ¾¿·½·¨/Asking Good Survey Questions.pdf">Asking Good Survey Questions.pdf</a>
 
-    - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/å„ä¸»é¢˜èµ„æ–™/æŠ•èµ„ä¸»é¢˜/Nationality and differences in auditor risk assessment.pdf">Nationality and differences in auditor risk assessment.pdf</a>
+  - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/ÑĞ¾¿·½·¨/ÈçºÎĞ´ÎÄÏ××ÛÊö.ppt">ÈçºÎĞ´ÎÄÏ××ÛÊö.ppt</a>
 
-- ç ”ç©¶æ–¹æ³•
+  - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/ÑĞ¾¿·½·¨/Ôú¸ùÀíÂÛ.docx">Ôú¸ùÀíÂÛ.docx</a>
 
-  - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/ç ”ç©¶æ–¹æ³•/å¦‚ä½•å†™æ–‡çŒ®ç»¼è¿°.ppt">å¦‚ä½•å†™æ–‡çŒ®ç»¼è¿°.ppt</a>
+  - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/ÑĞ¾¿·½·¨/ÎÄÏ××ÛÊö.docx">ÎÄÏ××ÛÊö.docx</a>
 
-  - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/ç ”ç©¶æ–¹æ³•/è°ƒæŸ¥ç ”ç©¶æ³•.docx">è°ƒæŸ¥ç ”ç©¶æ³•.docx</a>
+  - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/ÑĞ¾¿·½·¨/°¸ÀıÑĞ¾¿.docx">°¸ÀıÑĞ¾¿.docx</a>
 
-  - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/ç ”ç©¶æ–¹æ³•/è´¨çš„ç ”ç©¶æ–¹æ³•ä¸ç¤¾ä¼šç§‘å­¦ç ”ç©¶--é™ˆå‘æ˜.pdf">è´¨çš„ç ”ç©¶æ–¹æ³•ä¸ç¤¾ä¼šç§‘å­¦ç ”ç©¶--é™ˆå‘æ˜.pdf</a>
+  - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/ÑĞ¾¿·½·¨/¸ÅÄîÄ£ĞÍº¬Òå.docx">¸ÅÄîÄ£ĞÍº¬Òå.docx</a>
 
-  - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/ç ”ç©¶æ–¹æ³•/æ¦‚å¿µæ¨¡å‹å«ä¹‰.docx">æ¦‚å¿µæ¨¡å‹å«ä¹‰.docx</a>
+  - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/ÑĞ¾¿·½·¨/ÂÛÎÄÕªÒª.docx">ÂÛÎÄÕªÒª.docx</a>
 
-  - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/ç ”ç©¶æ–¹æ³•/æ‰æ ¹ç†è®º.docx">æ‰æ ¹ç†è®º.docx</a>
+  - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/ÑĞ¾¿·½·¨/µ÷²éÑĞ¾¿·¨.docx">µ÷²éÑĞ¾¿·¨.docx</a>
 
-  - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/ç ”ç©¶æ–¹æ³•/Asking Good Survey Questions.pdf">Asking Good Survey Questions.pdf</a>
+  - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/ÑĞ¾¿·½·¨/ÖÊĞÔ·½·¨.docx">ÖÊĞÔ·½·¨.docx</a>
 
-  - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/ç ”ç©¶æ–¹æ³•/è®ºæ–‡æ‘˜è¦.docx">è®ºæ–‡æ‘˜è¦.docx</a>
+  - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/ÑĞ¾¿·½·¨/ÖÊµÄÑĞ¾¿·½·¨ÓëÉç»á¿ÆÑ§ÑĞ¾¿--³ÂÏòÃ÷.pdf">ÖÊµÄÑĞ¾¿·½·¨ÓëÉç»á¿ÆÑ§ÑĞ¾¿--³ÂÏòÃ÷.pdf</a>
 
-  - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/ç ”ç©¶æ–¹æ³•/é™ˆå‘æ˜è´¨åŒ–ç ”ç©¶PPT.ppt">é™ˆå‘æ˜è´¨åŒ–ç ”ç©¶PPT.ppt</a>
+  - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÂÃÓÎÍ¶×ÊÓë²ÆÎñ¹ÜÀí/ÑĞ¾¿·½·¨/³ÂÏòÃ÷ÖÊ»¯ÑĞ¾¿PPT.ppt">³ÂÏòÃ÷ÖÊ»¯ÑĞ¾¿PPT.ppt</a>
 
-  - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/ç ”ç©¶æ–¹æ³•/è´¨æ€§æ–¹æ³•.docx">è´¨æ€§æ–¹æ³•.docx</a>
+#### ¡¶ÑĞ¾¿·½·¨¡·
 
-  - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/ç ”ç©¶æ–¹æ³•/æ–‡çŒ®ç»¼è¿°.docx">æ–‡çŒ®ç»¼è¿°.docx</a>
+- µ÷²éÎÊ¾í
 
-  - <a href="ç”µå­ä¹¦å’Œå‚è€ƒèµ„æ–™/2019å¹´ä¸Šå­¦æœŸ/æ—…æ¸¸æŠ•èµ„ä¸è´¢åŠ¡ç®¡ç†/ç ”ç©¶æ–¹æ³•/æ¡ˆä¾‹ç ”ç©¶.docx">æ¡ˆä¾‹ç ”ç©¶.docx</a>
+  - <a href="µç×ÓÊéºÍ²Î¿¼×ÊÁÏ/2019ÄêÉÏÑ§ÆÚ/ÑĞ¾¿·½·¨/µ÷²éÎÊ¾í/µ÷²éÎÊ¾íµÄÉè¼ÆÓëÆÀ¹À.pdf">µ÷²éÎÊ¾íµÄÉè¼ÆÓëÆÀ¹À.pdf</a>
 
