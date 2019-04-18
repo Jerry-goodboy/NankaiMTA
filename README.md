@@ -1,6 +1,6 @@
 # Table of Contents
 
-Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome#platforms)
+Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 <!-- MarkdownTOC -->
 
