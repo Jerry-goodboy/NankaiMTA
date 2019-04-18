@@ -34,6 +34,8 @@ def recursive_showdir(path, depth, dirName, seq):
 if __name__ == '__main__':
     recursive_showdir(os.getcwd(), 1, "", seq)
     fo = open("README.md", "w")
+    toc = '# Table of Contents\n\nInspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome#platforms)\n\n'
+    fo.writelines(toc)
     fo.writelines([line + '\n\n' for line in seq])
     fo.close()
     print("Everything is OK!")

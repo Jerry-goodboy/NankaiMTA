@@ -1,3 +1,7 @@
+# Table of Contents
+
+Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome#platforms)
+
 <!-- MarkdownTOC -->
 
 - [名师风采](#名师风采)
@@ -11,7 +15,6 @@
 - [网络文章](#网络文章)
 
 <!-- /MarkdownTOC -->
-
 
 
 <a id="名师风采"></a>
