@@ -10,9 +10,8 @@ excludeFiles = set(['.DS_Store'])
 
 seq = []
 
-def dfs_showdir(path, depth, dirName, seq):
+def recursive_showdir(path, depth, dirName, seq):
     global href
-    fo = open("README.md", "w")
     dirs = os.listdir(path)
     dirs.sort()
     for item in dirs:
@@ -26,16 +25,18 @@ def dfs_showdir(path, depth, dirName, seq):
                 else:
                     seq.append("  " * (depth - 4) + "- " + item)
                 href = item if(dirName == "") else dirName + "/" + item
-                dfs_showdir(newitem, depth +1, href, seq)
+                recursive_showdir(newitem, depth +1, href, seq)
             elif os.path.isfile(newitem):
                 if item not in excludeFiles and depth > 1:
                     seq.append("  " * (depth - 4) + '- <a href="' + href + '/' + item + '">' + item +'</a>')
-    fo.writelines([line + '\n\n' for line in seq])
-    fo.close()
 
 
 if __name__ == '__main__':
-    dfs_showdir(os.getcwd(), 1, "", seq)
+    recursive_showdir(os.getcwd(), 1, "", seq)
+    fo = open("README.md", "w")
+    fo.writelines([line + '\n\n' for line in seq])
+    fo.close()
+    print("Everything is OK!")
 
 
 
